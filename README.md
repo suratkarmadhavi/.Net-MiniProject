@@ -20,10 +20,10 @@ Delete Functionality: The DeleteEmployee operation allows users to remove employ
 ASP.NET MVC Framework
 Microsoft SQL Server
 Entity Framework
-
+```
 ### **Demo**:
 Home Page
-```![Home Page](https://user-images.githubusercontent.com/94161396/221365538-107962ac-65bb-4878-95cb-e2f46986ecdf.png)
+![Home Page](https://user-images.githubusercontent.com/94161396/221365538-107962ac-65bb-4878-95cb-e2f46986ecdf.png)
 Update Employee
 ![Update Employee](https://user-images.githubusercontent.com/94161396/221365539-f4f3214a-bdb5-46a2-a5ab-c632e9e31f0c.png)
 Add Employee
